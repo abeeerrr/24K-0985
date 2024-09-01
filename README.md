@@ -7,6 +7,4 @@ I'm from a pre-engineering background. (-30000 aura)
 
 I have no idea what's going on, but I'm tRyiNg
 
-In the end, I'm suffering 
-
-Thanks
+Shall I survive the year? Stay tuned to find out
