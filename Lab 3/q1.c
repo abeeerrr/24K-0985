@@ -1,0 +1,1 @@
+Wrong Value is being printed as the value assigned exceeds the range of the int data in C language. Hence, as value exceeds range, it results in incorrect value being displayed in the output.
