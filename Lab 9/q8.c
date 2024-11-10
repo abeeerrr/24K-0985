@@ -45,7 +45,8 @@ int main() {
 
     if (operator == '/' && num2 == 0) {
         
-    } else {
+       } 
+	else {
         printf("Result: %f\n", result);
     }
 
