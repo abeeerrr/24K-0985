@@ -45,7 +45,7 @@ int main() {
     
     SmartHome home1("Villa", "High");
 
-    cout << "\n=== Smart Home Details ===\n";
+    cout << "Smart Home Details";
     home1.displayHomeDetails();
 
     return 0;
