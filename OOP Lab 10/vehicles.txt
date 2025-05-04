@@ -1,0 +1,3 @@
+AutonomousCar,AC123,TeslaModelX,2023,Version:2.5,Certified
+ElectricVehicle,EV456,NissanLeaf,2021,Battery:40,Approved
+GasolineCar,GC789,ToyotaCorolla,2019,None,Verified
