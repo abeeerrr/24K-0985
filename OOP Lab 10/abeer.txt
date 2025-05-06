@@ -1,3 +1,5 @@
 Car,101,Toyota Corolla,2019,Hybrid,Certified
 Truck,202,Ford F-150,2018,Diesel,Certified
 Bike,303,Honda CB500X,2020,Sports,Not Certified
+
+HybridTruck,777,Tesla X,2023,Cargo:1500|Battery:350,Certified
